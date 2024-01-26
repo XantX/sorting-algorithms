@@ -1,5 +1,9 @@
-# Algoritmos de ordenamiento
+# Sorting algorithms
 
-Práctica de algoritmos de ordenamiento con Python.
+Practice of sorting algorithms with Python.
 
-- Bubble Sort:
+- Bubble Sort
+- Insertion Sort
+- Merge Sort
+- Quick Sort
+- Heap Sort
